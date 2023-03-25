@@ -13,9 +13,10 @@ body {
     width: 400px;
     margin: 0 auto;
     text-align: center;
-    background: fcefb4;
-    color: 003566;
+    background: yellowgreen;
+    color: navy;
     border-bottom: 6px solid purple;
+    border-top: 6px solid purple;
     border-radius: 25px;
 }
 
