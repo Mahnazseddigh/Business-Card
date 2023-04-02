@@ -1,9 +1,11 @@
-body {
+.body {
     margin: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.jpg {
-    width: 150 px;
+.png {
+    left: 20px;;
+    width: 150px;
+    height: 150px;
 }
 
 .card {
